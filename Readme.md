@@ -1,15 +1,16 @@
-# My GitHub App
+# Mock-GitHub App
 
 This is a mock GitHub app that allows users to log in via GitHub authentication and create repositories.
 
 # Acknowledgements
 
-This project was developed as part of a task assigned by TrueFoundary Company. Special thanks to them for providing the opportunity.
+This project was developed as part of a task assigned by `TrueFoundary Company` Special thanks to them for providing the opportunity.
 
 ## Technologies Used
 
 - Frontend: React
 - Backend: NestJS
+- Library: Octokit
 
 ## Installation
 
