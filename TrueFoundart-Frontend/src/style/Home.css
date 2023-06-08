@@ -1,0 +1,35 @@
+.home-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color: #0d1117; /* Dark background color */
+}
+
+.home-heading {
+  font-size: 2rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+  color: #c9d1d9; /* White text color */
+}
+
+.home-paragraph {
+  font-size: 1.25rem;
+  text-align: center;
+  color: #8b949e; /* Lighter text color */
+}
+
+.home-button {
+  display: inline-block;
+  background-color: #28a745; /* Green button color */
+  color: #fff; /* White text color */
+  padding: 1rem 2rem;
+  border-radius: 6px;
+  margin-top: 20px;
+  text-decoration: none;
+}
+
+.home-button:hover {
+  background-color: #23953c; /* Lighter green button color on hover */
+}

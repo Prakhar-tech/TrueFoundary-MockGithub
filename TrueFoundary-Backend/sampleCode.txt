@@ -1,0 +1,11 @@
+function genrateSampleOutPut() {
+  console.log('=========================================');
+  console.log('          DEMO CODE EXECUTION');
+  console.log('=========================================');
+  console.log('Welcome to the Mock Github App');
+  console.log('You can Login Using Github');
+  console.log('You Can Create A Repo');
+  console.log('=========================================');
+}
+
+genrateSampleOutPut();
